@@ -11,6 +11,7 @@
 7. **Functions** — Declaring and defining functions, `void`, return types, parameters and arguments, multiple arguments.
 8. **Functions Pt2** — Scope, multi-file programs, header files, inline functions, default arguments, function overloading, function templates.
 9. **Classes and Objects** — Classes as blueprints, attributes and methods, public and private access, defining methods outside the class, creating objects, header and source file structure.
+10. **Classes and Objects Pt2** — A ckntinuation of classes and objects as the notes were getting to long.
 ## Course Progress
  
 - [x] Learn C++: Introduction
