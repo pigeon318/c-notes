@@ -1,3 +1,7 @@
+# I have started a new C++ project that uses these notes + more check its repo(aviation_db) for more info
+
+
+
 ## Notes (in learning order)
  
 ### Basics
